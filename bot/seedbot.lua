@@ -224,7 +224,12 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "plugins",
+    "joke",
+    "logo",
+    "Info",
+    "telenow"
     },
     sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
